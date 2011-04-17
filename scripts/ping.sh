@@ -5,7 +5,4 @@ function warnifoff() {
 }
 
 warnifoff "aspiration.junge-piraten.de"
-warnifoff "public.aspiration.junge-piraten.de"
-warnifoff "community.aspiration.junge-piraten.de"
-warnifoff "mitglieder.aspiration.junge-piraten.de"
 
