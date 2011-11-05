@@ -2,7 +2,7 @@
 
 SCRIPTDIR=`dirname $0`/scripts
 TMPFILE=/tmp/jupi-monitoring
-TARGETS="prauscher@prauscher.homeip.net hostmaster+jupimonitoring@unionhost.de"
+TARGETS="prauscher@ohai.su lutoma@ohai.su"
 
 [ -e $TMPFILE ] && mv $TMPFILE ${TMPFILE}~
 
